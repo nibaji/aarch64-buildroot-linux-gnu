@@ -1,0 +1,6 @@
+Buildroot toolchain based on GCC9 for sdm845 family.
+
+Built using https://buildroot.org/download.html with the above  defconfig.
+
+All the licenses can be found here: http://toolchains.bootlin.com/downloads/releases/licenses/
+All the sources can be found here: http://toolchains.bootlin.com/downloads/releases/sources/
